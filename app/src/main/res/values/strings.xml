@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpeechDialer</string>
+    <string name="start">START</string>
+    <string name="dial">DIAL !</string>
+</resources>
